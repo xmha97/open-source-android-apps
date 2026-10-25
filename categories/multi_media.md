@@ -18,7 +18,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Blazify**](https://github.com/rajendra7169/blazify) | A music player that streams online and plays the files already on your phone, with synced lyrics and a ten-band equalizer. | `Kotlin` | `GPL-3.0` | 48 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/rajendra7169/blazify) |
 | [**Bandhook-Kotlin**](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app written entirely in Kotlin to demonstrate its features. | `Kotlin` | `Apache-2.0` | 1.9k | — |
 | [**bilibili-android-client**](https://github.com/HotBitmapGG/bilibili-android-client) | An unofficial client for the Bilibili video sharing website. (Archived) | `Java` | `WTFPL` | 4.5k | — |
-| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 11.0k | — |
+| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 11.1k | — |
 | [**Droided Media Tank**](https://github.com/vikingbrain/droidedmediatank) | A remote control app for Networked Media Tank (NMT) streamers. | `Java` | `Apache-2.0` | 7 | — |
 | [**Easy Sound Recorder**](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app with a Material Design interface. | `Java` | `GPL-3.0` | 1.5k | — |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | `Apache-2.0` | 21.9k | — |
