@@ -16,11 +16,11 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Clones Online**](https://github.com/lukedd3/ClonesOnline) | An online multiplayer board game for Android. | `Java` | `MIT` | 13 | — |
 | [**Cloud Cup**](https://github.com/google/cloud-cup-android) | A Firebase-powered multi-device game client. | `Java` | `Apache-2.0` | 51 | — |
 | [**destiny_game**](https://github.com/VedantAdka/destiny_game) | A choice-based adventure game with a dark-themed UI. | `C++` | `MIT` | 0 | — |
-| [**Dungeon Crawl Stone Soup**](https://github.com/crawl/crawl) | A classic roguelike game of dungeon exploration, combat, and magic. | `C++` | `GPL-2.0` | 3.0k | — |
+| [**Dungeon Crawl Stone Soup**](https://github.com/crawl/crawl) | A classic roguelike game of dungeon exploration, combat, and magic. | `C++` | `GPL-2.0` | 3.1k | — |
 | [**Etheroll**](https://github.com/AndreMiras/EtherollApp) | A dice game that runs on the Ethereum blockchain. | `Python` | `MIT` | 56 | — |
 | [**friendspell**](https://github.com/chiuki/friendspell) | A party icebreaker game based on the Google Nearby API. | `Java` | `Apache-2.0` | 413 | — |
 | [**GameOfCards**](https://github.com/rohitramkumar308/GameOfCards) | A simple, rule-free card game. | `Java` | Not specified | 59 | — |
-| [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 121 | — |
+| [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 122 | — |
 | [**Gloomy Dungeons 3D**](https://github.com/restorer/gloomy-dungeons-3d) | An old-school, Wolfenstein-style 3D shooter. | `Java` | `MIT` | 73 | — |
 | [**Google Santa Tracker**](https://github.com/google/santa-tracker-android) | An educational and entertaining app for the Christmas holiday period. | `Java` | `Apache-2.0` | 2.1k | — |
 | [**Material Life**](https://github.com/juankysoriano/MaterialLife) | A Material Design styled implementation of Conway's Game of Life. | `Java` | `GPL-2.0` | 96 | — |
