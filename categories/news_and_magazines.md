@@ -20,7 +20,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**HackerNews-React-Native**](https://github.com/iSimar/HackerNews-React-Native) | A Hacker News client for iOS and Android, built with React Native. | `JavaScript` | `MIT` | 3.7k | — |
 | [**Hex for Hacker News**](https://github.com/longdivision/hex) | A snappy and fun Hacker News app with a focus on design. (Archived) | `Java` | `Apache-2.0` | 29 | — |
 | [**Hummingbird**](https://github.com/xiprox/Hummingbird-for-Android) | A modern client for the anime tracking website Hummingbird.me (now Kitsu). | `Java` | `GPL-3.0` | 62 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/xiprox/Hummingbird-for-Android) |
-| [**Idaily**](https://github.com/liuguangqiang/Idaily) | A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava. | `Java` | `Apache-2.0` | 567 | — |
+| [**Idaily**](https://github.com/liuguangqiang/Idaily) | A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava. | `Java` | `Apache-2.0` | 568 | — |
 | [**ImportNew**](https://github.com/lzjun567/XiYuanFangApp) | The official Android app for the Chinese tech blog ImportNew.com. | `CSS` | `Apache-2.0` | 249 | — |
 | [**Jager**](https://github.com/JaspervanRiet/Jager) | An unofficial client for Product Hunt with a Material Design interface. (Archived) | `Java` | `GPL-3.0` | 74 | — |
 | [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 751 | — |
@@ -38,7 +38,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**scala-days-android**](https://github.com/xebia-functional/scala-days-android) | The official Android application for the Scala Days conferences. | `Scala` | `Apache-2.0` | 139 | — |
 | [**Slide**](https://github.com/Haptic-Apps/Slide) | A feature-packed, ad-free, and open-source Reddit browser for Android. | `Java` | `GPL-3.0` | 1.8k | — |
 | [**somosOCO**](https://github.com/pekebyte/somosoco) | A simple reader app for the "somos oco" Blogger blog. | `Java` | Not specified | 6 | — |
-| [**StartupNews**](https://github.com/halzhang/StartupNews) | A client for Startup News, a social news site for startup founders. | `Java` | `Apache-2.0` | 331 | — |
+| [**StartupNews**](https://github.com/halzhang/StartupNews) | A client for Startup News, a social news site for startup founders. | `Java` | `Apache-2.0` | 330 | — |
 | [**Tiny Tiny RSS**](https://git.tt-rss.org/fox/tt-rss-android) | The official Android client for the self-hosted RSS reader, Tiny Tiny RSS. | `Java` | `GPL-3.0` | 741 | — |
 | [**Upload to Commons**](https://github.com/commons-app/apps-android-commons) | Allows users to upload photos from their Android device to Wikimedia Commons. | `Kotlin` | `Apache-2.0` | 1.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=fr.free.nrw.commons) |
 | [**Wikipedia**](https://github.com/wikimedia/apps-android-wikipedia) | The official open-source Wikipedia application for Android. | `Kotlin` | `Apache-2.0` | 3.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.wikipedia) |
